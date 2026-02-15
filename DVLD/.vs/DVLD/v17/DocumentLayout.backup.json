@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clsdatesittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clslocaldriverlicenseappviewdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\clsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:clsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clsapplicationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clsusersdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clstesttypesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clstestsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clstestappointmentsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clslocaldriverlicenceapplicationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clslicensedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clslicenceclassesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clsinternationllicensesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clsdriverdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clsdetatinlicensedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clscountriesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clsapplicationtypesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clspersondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|d:\\data layer dvld\\clseventlogsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\login\\formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:login\\formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\login\\formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:login\\formuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\userlogin10.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:userlogin10.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DVLD\\bin\\Debug\\UserLogin10.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\UserLogin10.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EBED25-B568-4BE6-8C02-042E9FAB878B}|..\\DTO.DVLD\\DTO.DVLD.csproj|d:\\dto.dvld\\dtoapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C86F0-AFD2-4818-B713-77C4B05E8D85}|..\\Business Layer DVLD\\Business Layer DVLD.csproj|d:\\business layer dvld\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C86F0-AFD2-4818-B713-77C4B05E8D85}|..\\Business Layer DVLD\\Business Layer DVLD.csproj|d:\\business layer dvld\\clsapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\test\\controlscadualetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:test\\controlscadualetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF172114-1C13-42E9-ADEB-9D9A739FF7D3}|..\\ConsoleApp1Test1\\ConsoleApp1Test1.csproj|d:\\consoleapp1test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EBED25-B568-4BE6-8C02-042E9FAB878B}|..\\DTO.DVLD\\DTO.DVLD.csproj|d:\\dto.dvld\\dtotestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\test\\controlscadualetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:test\\controlscadualetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\test\\controltaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:test\\controltaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\people\\formpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:people\\formpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EBED25-B568-4BE6-8C02-042E9FAB878B}|..\\DTO.DVLD\\DTO.DVLD.csproj|d:\\dto.dvld\\dtopeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C86F0-AFD2-4818-B713-77C4B05E8D85}|..\\Business Layer DVLD\\Business Layer DVLD.csproj|d:\\business layer dvld\\clsdvldsittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\localdriverlicence\\formlocaldriverlicenceaddandupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:localdriverlicence\\formlocaldriverlicenceaddandupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\people\\formpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:people\\formpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C86F0-AFD2-4818-B713-77C4B05E8D85}|..\\Business Layer DVLD\\Business Layer DVLD.csproj|d:\\business layer dvld\\clspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|D:\\DVLD\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DVLD\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\DVLD\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-15T14:09:43.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsTestsDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsTestsDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsTestsDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsTestsDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsTestsDL.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAwPcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:58:31.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsLocalDriverLicenseAppViewDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsLocalDriverLicenseAppViewDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsLocalDriverLicenseAppViewDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsLocalDriverLicenseAppViewDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsLocalDriverLicenseAppViewDL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:57:31.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsLocalDriverLicenceApplicationDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsLocalDriverLicenceApplicationDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsLocalDriverLicenceApplicationDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsLocalDriverLicenceApplicationDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsLocalDriverLicenceApplicationDL.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAcwN8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:56:17.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsApplicationDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsApplicationDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsApplicationDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsApplicationDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsApplicationDL.cs",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAcwJMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:00:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUtils.cs",
+              "DocumentMoniker": "D:\\DVLD\\clsUtils.cs",
+              "RelativeDocumentMoniker": "clsUtils.cs",
+              "ToolTip": "D:\\DVLD\\clsUtils.cs",
+              "RelativeToolTip": "clsUtils.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAxwLcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:26:52.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDateSittings.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsDateSittings.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsDateSittings.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsDateSittings.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsDateSittings.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:37:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsTestTypesDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsTestTypesDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsTestTypesDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsTestTypesDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsTestTypesDL.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:59:05.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUsersDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsUsersDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsUsersDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsUsersDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsUsersDL.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAAAJsBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:59:20.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsLicenseDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsLicenseDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsLicenseDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsLicenseDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsLicenseDL.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAIwNUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:54:54.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsLicenceClassesDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsLicenceClassesDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsLicenceClassesDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsLicenceClassesDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsLicenceClassesDL.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:54:30.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsInternationlLicensesDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsInternationlLicensesDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsInternationlLicensesDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsInternationlLicensesDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsInternationlLicensesDL.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAkwGgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:53:39.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsTestAppointmentsDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsTestAppointmentsDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsTestAppointmentsDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsTestAppointmentsDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsTestAppointmentsDL.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAAwDgBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:43:53.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsDriverDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsDriverDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsDriverDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsDriverDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsDriverDL.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAAABsBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:52:41.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsDetatinLicenseDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsDetatinLicenseDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsDetatinLicenseDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsDetatinLicenseDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsDetatinLicenseDL.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAAwI8BAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:51:47.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsCountriesDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsCountriesDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsCountriesDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsCountriesDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsCountriesDL.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAgwGgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:51:26.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ControlTakeTest.cs [Design]",
+              "DocumentMoniker": "D:\\DVLD\\Test\\ControlTakeTest.cs",
+              "RelativeDocumentMoniker": "Test\\ControlTakeTest.cs",
+              "ToolTip": "D:\\DVLD\\Test\\ControlTakeTest.cs [Design]",
+              "RelativeToolTip": "Test\\ControlTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:46:42.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormUserLogin.cs [Design]",
+              "DocumentMoniker": "D:\\DVLD\\Login\\FormUserLogin.cs",
+              "RelativeDocumentMoniker": "Login\\FormUserLogin.cs",
+              "ToolTip": "D:\\DVLD\\Login\\FormUserLogin.cs [Design]",
+              "RelativeToolTip": "Login\\FormUserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:29:09.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsPersonDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsPersonDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsPersonDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsPersonDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsPersonDL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:13:53.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsApplicationTypesDL.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsApplicationTypesDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsApplicationTypesDL.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsApplicationTypesDL.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsApplicationTypesDL.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:53:13.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserLogin10.xml",
+              "DocumentMoniker": "D:\\DVLD\\bin\\Debug\\UserLogin10.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\UserLogin10.xml",
+              "ToolTip": "D:\\DVLD\\bin\\Debug\\UserLogin10.xml",
+              "RelativeToolTip": "bin\\Debug\\UserLogin10.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-02-13T09:45:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsEventLogsException.cs",
+              "DocumentMoniker": "D:\\Data Layer DVLD\\clsEventLogsException.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsEventLogsException.cs",
+              "ToolTip": "D:\\Data Layer DVLD\\clsEventLogsException.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsEventLogsException.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:45:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserLogin10.xml",
+              "DocumentMoniker": "D:\\DVLD\\UserLogin10.xml",
+              "RelativeDocumentMoniker": "UserLogin10.xml",
+              "ToolTip": "D:\\DVLD\\UserLogin10.xml",
+              "RelativeToolTip": "UserLogin10.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-02-13T09:46:43.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormUserLogin.cs",
+              "DocumentMoniker": "D:\\DVLD\\Login\\FormUserLogin.cs",
+              "RelativeDocumentMoniker": "Login\\FormUserLogin.cs",
+              "ToolTip": "D:\\DVLD\\Login\\FormUserLogin.cs",
+              "RelativeToolTip": "Login\\FormUserLogin.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:29:12.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsApplicationTypes.cs",
+              "DocumentMoniker": "D:\\Business Layer DVLD\\clsApplicationTypes.cs",
+              "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsApplicationTypes.cs",
+              "ToolTip": "D:\\Business Layer DVLD\\clsApplicationTypes.cs",
+              "RelativeToolTip": "..\\Business Layer DVLD\\clsApplicationTypes.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwBgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:55:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DTOApplication.cs",
+              "DocumentMoniker": "D:\\DTO.DVLD\\DTOApplication.cs",
+              "RelativeDocumentMoniker": "..\\DTO.DVLD\\DTOApplication.cs",
+              "ToolTip": "D:\\DTO.DVLD\\DTOApplication.cs",
+              "RelativeToolTip": "..\\DTO.DVLD\\DTOApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:00:59.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "D:\\Business Layer DVLD\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsApplications.cs",
+              "ToolTip": "D:\\Business Layer DVLD\\clsApplications.cs",
+              "RelativeToolTip": "..\\Business Layer DVLD\\clsApplications.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:00:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DTOTestAppointment.cs",
+              "DocumentMoniker": "D:\\DTO.DVLD\\DTOTestAppointment.cs",
+              "RelativeDocumentMoniker": "..\\DTO.DVLD\\DTOTestAppointment.cs",
+              "ToolTip": "D:\\DTO.DVLD\\DTOTestAppointment.cs",
+              "RelativeToolTip": "..\\DTO.DVLD\\DTOTestAppointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:43:46.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DVLD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DVLD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:22:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ConsoleApp1Test1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1Test1\\Program.cs",
+              "ToolTip": "D:\\ConsoleApp1Test1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1Test1\\Program.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAwwO8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:24:58.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ControlScadualeTest.cs",
+              "DocumentMoniker": "D:\\DVLD\\Test\\ControlScadualeTest.cs",
+              "RelativeDocumentMoniker": "Test\\ControlScadualeTest.cs",
+              "ToolTip": "D:\\DVLD\\Test\\ControlScadualeTest.cs",
+              "RelativeToolTip": "Test\\ControlScadualeTest.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADgv2AAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:46:48.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ControlScadualeTest.cs [Design]",
+              "DocumentMoniker": "D:\\DVLD\\Test\\ControlScadualeTest.cs",
+              "RelativeDocumentMoniker": "Test\\ControlScadualeTest.cs",
+              "ToolTip": "D:\\DVLD\\Test\\ControlScadualeTest.cs [Design]",
+              "RelativeToolTip": "Test\\ControlScadualeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:46:45.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DTOPeople.cs",
+              "DocumentMoniker": "D:\\DTO.DVLD\\DTOPeople.cs",
+              "RelativeDocumentMoniker": "..\\DTO.DVLD\\DTOPeople.cs",
+              "ToolTip": "D:\\DTO.DVLD\\DTOPeople.cs",
+              "RelativeToolTip": "..\\DTO.DVLD\\DTOPeople.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:27:29.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormPeople.cs",
+              "DocumentMoniker": "D:\\DVLD\\People\\FormPeople.cs",
+              "RelativeDocumentMoniker": "People\\FormPeople.cs",
+              "ToolTip": "D:\\DVLD\\People\\FormPeople.cs",
+              "RelativeToolTip": "People\\FormPeople.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAADgv8UAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:33:50.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormPeople.cs [Design]",
+              "DocumentMoniker": "D:\\DVLD\\People\\FormPeople.cs",
+              "RelativeDocumentMoniker": "People\\FormPeople.cs",
+              "ToolTip": "D:\\DVLD\\People\\FormPeople.cs [Design]",
+              "RelativeToolTip": "People\\FormPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:33:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsDVLDSittings.cs",
+              "DocumentMoniker": "D:\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "ToolTip": "D:\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "RelativeToolTip": "..\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:28:42.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormLocalDriverLicenceAddAndUpdate.cs",
+              "DocumentMoniker": "D:\\DVLD\\LocalDriverLicence\\FormLocalDriverLicenceAddAndUpdate.cs",
+              "RelativeDocumentMoniker": "LocalDriverLicence\\FormLocalDriverLicenceAddAndUpdate.cs",
+              "ToolTip": "D:\\DVLD\\LocalDriverLicence\\FormLocalDriverLicenceAddAndUpdate.cs",
+              "RelativeToolTip": "LocalDriverLicence\\FormLocalDriverLicenceAddAndUpdate.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:07:29.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsPeople.cs",
+              "DocumentMoniker": "D:\\Business Layer DVLD\\clsPeople.cs",
+              "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsPeople.cs",
+              "ToolTip": "D:\\Business Layer DVLD\\clsPeople.cs",
+              "RelativeToolTip": "..\\Business Layer DVLD\\clsPeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:34:20.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "D:\\DVLD\\clsValidation.cs",
+              "RelativeDocumentMoniker": "clsValidation.cs",
+              "ToolTip": "D:\\DVLD\\clsValidation.cs",
+              "RelativeToolTip": "clsValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:26:51.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
