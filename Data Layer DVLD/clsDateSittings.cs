@@ -15,6 +15,7 @@ namespace Data_Layer_DVLD
 
         public static string ConnectingString = ConfigurationManager.ConnectionStrings["MyDbConnection"].ConnectionString;
 
+        
 
     }
 }

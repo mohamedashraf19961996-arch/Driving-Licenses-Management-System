@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Security.Cryptography;
 namespace Business_Layer_DVLD
 {
     public class clsDVLDSittings
@@ -28,6 +28,25 @@ namespace Business_Layer_DVLD
             }
             else
                 return true;
+        }
+
+        public static string ComputeHashing(string Input)
+        {
+
+            
+            using(SHA256 sHA256 = SHA256.Create())
+            {
+
+                byte[] Hashed=sHA256.ComputeHash(Encoding.UTF8.GetBytes(Input));
+
+                return BitConverter.ToString(Hashed).Replace("-","").ToLower();
+
+            }
+
+
+
+
+
         }
 
 

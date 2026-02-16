@@ -11,3 +11,16 @@ D:\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Configuration.dll
 D:\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Primitives.dll
 D:\Data Layer DVLD\bin\Debug\System.ValueTuple.dll
+D:\DVLD Project\Data Layer DVLD\bin\Debug\Data Layer DVLD.dll
+D:\DVLD Project\Data Layer DVLD\bin\Debug\Data Layer DVLD.pdb
+D:\DVLD Project\Data Layer DVLD\bin\Debug\DTO.DVLD.dll
+D:\DVLD Project\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\DVLD Project\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DVLD Project\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\DVLD Project\Data Layer DVLD\bin\Debug\System.ValueTuple.dll
+D:\DVLD Project\Data Layer DVLD\bin\Debug\DTO.DVLD.pdb
+D:\DVLD Project\Data Layer DVLD\obj\Debug\Data Layer DVLD.csproj.AssemblyReference.cache
+D:\DVLD Project\Data Layer DVLD\obj\Debug\Data Layer DVLD.csproj.CoreCompileInputs.cache
+D:\DVLD Project\Data Layer DVLD\obj\Debug\Data Lay.69E4D4F6.Up2Date
+D:\DVLD Project\Data Layer DVLD\obj\Debug\Data Layer DVLD.dll
+D:\DVLD Project\Data Layer DVLD\obj\Debug\Data Layer DVLD.pdb

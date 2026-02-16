@@ -15,10 +15,9 @@ namespace DVLD
     public partial class FormPeople : Form
     {
 
-        private static DataTable _DtAllPeople=clsPeople.ListPeople();
-        private static DataTable _Dtpeople = _DtAllPeople.DefaultView.ToTable(false, @"PersonID",
-            "FirstName", "SecondName", "ThirdName", "LastName", "NationalNo", "Gendor", "DateOfBirth", "CountryName", "Phone");
-        public FormPeople()
+        private static DataTable _DtAllPeople;
+        private static DataTable _Dtpeople; 
+            public FormPeople()
         {
             InitializeComponent();
             _FillFilter();
@@ -45,6 +44,9 @@ namespace DVLD
 
         private void ReFreshData()
         {
+            _DtAllPeople = clsPeople.ListPeople();
+            _Dtpeople = _DtAllPeople.DefaultView.ToTable(false, @"PersonID",
+            "FirstName", "SecondName", "ThirdName", "LastName", "NationalNo", "Gendor", "DateOfBirth", "CountryName", "Phone");
 
             dataGridView1.DataSource= _Dtpeople;
             comboBox1.SelectedIndex = 0;

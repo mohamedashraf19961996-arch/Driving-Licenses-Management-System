@@ -9,3 +9,14 @@ D:\Business Layer DVLD\obj\Debug\Business Layer DVLD.csproj.CoreCompileInputs.ca
 D:\Business Layer DVLD\obj\Debug\Business.2DBA461C.Up2Date
 D:\Business Layer DVLD\obj\Debug\Business Layer DVLD.dll
 D:\Business Layer DVLD\obj\Debug\Business Layer DVLD.pdb
+D:\DVLD Project\Business Layer DVLD\bin\Debug\Business Layer DVLD.dll
+D:\DVLD Project\Business Layer DVLD\bin\Debug\Business Layer DVLD.pdb
+D:\DVLD Project\Business Layer DVLD\bin\Debug\Data Layer DVLD.dll
+D:\DVLD Project\Business Layer DVLD\bin\Debug\DTO.DVLD.dll
+D:\DVLD Project\Business Layer DVLD\bin\Debug\Data Layer DVLD.pdb
+D:\DVLD Project\Business Layer DVLD\bin\Debug\DTO.DVLD.pdb
+D:\DVLD Project\Business Layer DVLD\obj\Debug\Business Layer DVLD.csproj.AssemblyReference.cache
+D:\DVLD Project\Business Layer DVLD\obj\Debug\Business Layer DVLD.csproj.CoreCompileInputs.cache
+D:\DVLD Project\Business Layer DVLD\obj\Debug\Business.2DBA461C.Up2Date
+D:\DVLD Project\Business Layer DVLD\obj\Debug\Business Layer DVLD.dll
+D:\DVLD Project\Business Layer DVLD\obj\Debug\Business Layer DVLD.pdb

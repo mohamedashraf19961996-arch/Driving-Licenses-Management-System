@@ -33,9 +33,11 @@ namespace Business_Layer_DVLD
         public static clsUsers GetUserByUserID(int UserID)
         {
             DTOUsers User = new DTOUsers();
-            
+           
+
             if (clsUsersDL.GetUserByUserID(ref User,UserID))
             {
+                
 
                 return new clsUsers(User);
             }
@@ -59,8 +61,9 @@ namespace Business_Layer_DVLD
         public static clsUsers GetUserByUserNameAndPassword(string UserName,string Password)
         {
             DTOUsers User = new DTOUsers();
+            string HashedPassword = clsDVLDSittings.ComputeHashing(Password);
 
-            if (clsUsersDL.GetUserByUserNameAndPassword(ref User, UserName, Password))
+            if (clsUsersDL.GetUserByUserNameAndPassword(ref User, UserName, HashedPassword))
             {
 
                 return new clsUsers(User);
@@ -71,6 +74,12 @@ namespace Business_Layer_DVLD
 
         private bool _AddNewUser()
         {
+
+            string HashedPassword = clsDVLDSittings.ComputeHashing(this._User.Password);
+
+            this._User.Password = HashedPassword;
+
+
             this._User.UserID = clsUsersDL.AddNewUser(this._User);
 
             if(this._User.UserID!=0)
@@ -84,6 +93,11 @@ namespace Business_Layer_DVLD
 
         private bool _UpdateUser()
         {
+            string HashedPassword = clsDVLDSittings.ComputeHashing(this._User.Password);
+
+            this._User.Password= HashedPassword;
+
+
             if (clsUsersDL.UpdateUser(this._User))
             {
 
@@ -149,11 +163,9 @@ namespace Business_Layer_DVLD
 
         public static clsUsers FindCurrentUser( DTOUsers CurrentUser,string Password,string UserName)
         {
-            if(clsUsersDL.GetUserByUserNameAndPassword(ref CurrentUser,UserName,Password))
-            {
-                return new clsUsers(CurrentUser);
-            }else 
-                return null;
+                   return GetUserByUserNameAndPassword(UserName, Password);
+
+
 
 
         }
@@ -189,6 +201,12 @@ namespace Business_Layer_DVLD
 
         }
 
+        public bool CompareHashPassword(string OldPassword)
+        {
+            string HashedPassword = clsDVLDSittings.ComputeHashing(OldPassword);
 
+            return (HashedPassword == this._User.Password);
+            
+        }
     }
 }

@@ -26,11 +26,12 @@ namespace DVLD
 
         private void ChangePassword()
         {
-            if(_User._User.Password!=textBoxCurrent.Text.Trim())
+            if (!_User.CompareHashPassword(textBoxCurrent.Text.Trim()))
             {
                 MessageBox.Show("the Current Password is not match with Old Password");
                 return;
             }
+
             if (textBoxNewPass.Text.Trim() == textBoxConfirmPass.Text.Trim())
             {
                 _User._User.Password = textBoxNewPass.Text.Trim();
