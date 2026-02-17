@@ -126,8 +126,10 @@ For specific field names, validations, or business rules, inspect the Business L
 - Ensure proper permissions for SQL Server service account if attaching database files.
 - Confirm which project is the startup project before running (the startup project's `App.config` is used at runtime).
 
-## Contributing
 
+## Feedback & Contribution
+-Your suggestions and improvements are welcome! 
+-Please create an Issue or a Pull Request if you have ideas to improve this project.
 - To contribute, fork the repository and submit a pull request. Open issues for bugs or feature requests. Follow repository code style and testing practices when contributing.
 
 ---
