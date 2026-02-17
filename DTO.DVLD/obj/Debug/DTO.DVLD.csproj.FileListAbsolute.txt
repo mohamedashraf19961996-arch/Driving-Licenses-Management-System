@@ -4,3 +4,9 @@ D:\DTO.DVLD\obj\Debug\DTO.DVLD.csproj.AssemblyReference.cache
 D:\DTO.DVLD\obj\Debug\DTO.DVLD.csproj.CoreCompileInputs.cache
 D:\DTO.DVLD\obj\Debug\DTO.DVLD.dll
 D:\DTO.DVLD\obj\Debug\DTO.DVLD.pdb
+D:\DVLD Project\DTO.DVLD\bin\Debug\DTO.DVLD.dll
+D:\DVLD Project\DTO.DVLD\bin\Debug\DTO.DVLD.pdb
+D:\DVLD Project\DTO.DVLD\obj\Debug\DTO.DVLD.csproj.AssemblyReference.cache
+D:\DVLD Project\DTO.DVLD\obj\Debug\DTO.DVLD.csproj.CoreCompileInputs.cache
+D:\DVLD Project\DTO.DVLD\obj\Debug\DTO.DVLD.dll
+D:\DVLD Project\DTO.DVLD\obj\Debug\DTO.DVLD.pdb

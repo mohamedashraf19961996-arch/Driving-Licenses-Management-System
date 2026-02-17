@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DVLD Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|d:\\dvld project\\dvld\\users\\formuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:users\\formuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|d:\\dvld project\\dvld\\users\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:users\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C86F0-AFD2-4818-B713-77C4B05E8D85}|..\\Business Layer DVLD\\Business Layer DVLD.csproj|D:\\DVLD Project\\business layer dvld\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C86F0-AFD2-4818-B713-77C4B05E8D85}|..\\Business Layer DVLD\\Business Layer DVLD.csproj|D:\\DVLD Project\\business layer dvld\\clsdvldsittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D3472D-6B0F-4B99-AF16-CB77E6863D50}|..\\Data Layer DVLD\\Data Layer DVLD.csproj|D:\\DVLD Project\\data layer dvld\\clsdatesittings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C86F0-AFD2-4818-B713-77C4B05E8D85}|..\\Business Layer DVLD\\Business Layer DVLD.csproj|D:\\DVLD Project\\business layer dvld\\clspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUserInfo.cs [Design]",
+              "DocumentMoniker": "D:\\DVLD Project\\DVLD\\Users\\FormUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\FormUserInfo.cs",
+              "ToolTip": "D:\\DVLD Project\\DVLD\\Users\\FormUserInfo.cs [Design]",
+              "RelativeToolTip": "Users\\FormUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:41:59.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUsers.cs [Design]",
+              "DocumentMoniker": "D:\\DVLD Project\\DVLD\\Users\\FormUsers.cs",
+              "RelativeDocumentMoniker": "Users\\FormUsers.cs",
+              "ToolTip": "D:\\DVLD Project\\DVLD\\Users\\FormUsers.cs [Design]",
+              "RelativeToolTip": "Users\\FormUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:41:55.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "D:\\DVLD Project\\Business Layer DVLD\\clsUsers.cs",
+              "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsUsers.cs",
+              "ToolTip": "D:\\DVLD Project\\Business Layer DVLD\\clsUsers.cs",
+              "RelativeToolTip": "..\\Business Layer DVLD\\clsUsers.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAwwM0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:32:09.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsPeople.cs",
+              "DocumentMoniker": "D:\\DVLD Project\\Business Layer DVLD\\clsPeople.cs",
+              "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsPeople.cs",
+              "ToolTip": "D:\\DVLD Project\\Business Layer DVLD\\clsPeople.cs",
+              "RelativeToolTip": "..\\Business Layer DVLD\\clsPeople.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:32:09.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDVLDSittings.cs",
+              "DocumentMoniker": "D:\\DVLD Project\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "ToolTip": "D:\\DVLD Project\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "RelativeToolTip": "..\\Business Layer DVLD\\clsDVLDSittings.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:32:09.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDateSittings.cs",
+              "DocumentMoniker": "D:\\DVLD Project\\Data Layer DVLD\\clsDateSittings.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsDateSittings.cs",
+              "ToolTip": "D:\\DVLD Project\\Data Layer DVLD\\clsDateSittings.cs",
+              "RelativeToolTip": "..\\Data Layer DVLD\\clsDateSittings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:32:09.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

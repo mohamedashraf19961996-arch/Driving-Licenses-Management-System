@@ -14,7 +14,6 @@ D:\Data Layer DVLD\bin\Debug\System.ValueTuple.dll
 D:\DVLD Project\Data Layer DVLD\bin\Debug\Data Layer DVLD.dll
 D:\DVLD Project\Data Layer DVLD\bin\Debug\Data Layer DVLD.pdb
 D:\DVLD Project\Data Layer DVLD\bin\Debug\DTO.DVLD.dll
-D:\DVLD Project\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Configuration.dll
 D:\DVLD Project\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\DVLD Project\Data Layer DVLD\bin\Debug\Microsoft.Extensions.Primitives.dll
 D:\DVLD Project\Data Layer DVLD\bin\Debug\System.ValueTuple.dll
