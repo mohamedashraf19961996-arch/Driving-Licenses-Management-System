@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DVLD Project\\DVLD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|d:\\dvld project\\dvld\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|d:\\dvld project\\dvld\\test\\formtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9CDEB938-DD29-446A-9B39-6818AB8F22FA}|DVLD.csproj|solutionrelative:test\\formtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -67,6 +71,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\DVLD Project\\DVLD\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\DVLD Project\\DVLD\\README.md*",
+              "RelativeToolTip": "README.md*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAADdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-17T12:11:37.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormTakeTest.cs [Design]",
               "DocumentMoniker": "D:\\DVLD Project\\DVLD\\Test\\FormTakeTest.cs",
               "RelativeDocumentMoniker": "Test\\FormTakeTest.cs",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormAddNewUser.cs [Design]",
               "DocumentMoniker": "D:\\DVLD Project\\DVLD\\Users\\FormAddNewUser.cs",
               "RelativeDocumentMoniker": "Users\\FormAddNewUser.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "clsUsers.cs",
               "DocumentMoniker": "D:\\DVLD Project\\Business Layer DVLD\\clsUsers.cs",
               "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsUsers.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "clsPeople.cs",
               "DocumentMoniker": "D:\\DVLD Project\\Business Layer DVLD\\clsPeople.cs",
               "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsPeople.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "clsDVLDSittings.cs",
               "DocumentMoniker": "D:\\DVLD Project\\Business Layer DVLD\\clsDVLDSittings.cs",
               "RelativeDocumentMoniker": "..\\Business Layer DVLD\\clsDVLDSittings.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "clsDateSittings.cs",
               "DocumentMoniker": "D:\\DVLD Project\\Data Layer DVLD\\clsDateSittings.cs",
               "RelativeDocumentMoniker": "..\\Data Layer DVLD\\clsDateSittings.cs",
